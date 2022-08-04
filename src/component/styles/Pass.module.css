@@ -1,0 +1,32 @@
+.pass{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.pass button{
+    width: fit-content;
+    background-color: brown;
+    padding: 2%;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+.modal{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.26);
+    width: fit-content;
+    padding: 5%;
+    border-radius: 14px;
+    margin-top: 5%;
+}
+.modal h2{
+    color: green;
+}
+.modal button{
+    border: none;
+    background-color: rgb(54, 54, 167);
+    padding: 2%;
+    color: whitesmoke;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
